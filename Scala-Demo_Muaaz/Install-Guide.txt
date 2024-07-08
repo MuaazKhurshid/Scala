@@ -1,0 +1,4 @@
+1. Download IntelliJ - Community Edition (with JDK Guide and JDK installed)
+2. Download SBT
+3. Install Scala Plugin
+4. Create a project with sample code
